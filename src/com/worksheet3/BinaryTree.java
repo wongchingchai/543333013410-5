@@ -134,11 +134,11 @@ public class BinaryTree {
 	  	 
 	  	        theTree.addNode(85,"F ");
 	  	 
-	  	         //theTree.inOrderTraverse(theTree.root);
+	  	         theTree.inOrderTraverse(theTree.root);
 	  	 
 	  	         theTree.preorderTraverse(theTree.root);
 	  	 
-	  	         //theTree.postOrderTraverse(theTree.root);
+	  	         theTree.postOrderTraverse(theTree.root);
 	  	 
 	  	        
 	  	 
